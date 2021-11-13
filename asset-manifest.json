@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sg99sg15/food.git/static/css/main.6fa5142e.chunk.css",
+    "main.js": "/Sg99sg15/food.git/static/js/main.6e32df6b.chunk.js",
+    "main.js.map": "/Sg99sg15/food.git/static/js/main.6e32df6b.chunk.js.map",
+    "runtime-main.js": "/Sg99sg15/food.git/static/js/runtime-main.b22aa676.js",
+    "runtime-main.js.map": "/Sg99sg15/food.git/static/js/runtime-main.b22aa676.js.map",
+    "static/js/2.5ca95e08.chunk.js": "/Sg99sg15/food.git/static/js/2.5ca95e08.chunk.js",
+    "static/js/2.5ca95e08.chunk.js.map": "/Sg99sg15/food.git/static/js/2.5ca95e08.chunk.js.map",
+    "index.html": "/Sg99sg15/food.git/index.html",
+    "static/css/main.6fa5142e.chunk.css.map": "/Sg99sg15/food.git/static/css/main.6fa5142e.chunk.css.map",
+    "static/js/2.5ca95e08.chunk.js.LICENSE.txt": "/Sg99sg15/food.git/static/js/2.5ca95e08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b22aa676.js",
+    "static/js/2.5ca95e08.chunk.js",
+    "static/css/main.6fa5142e.chunk.css",
+    "static/js/main.6e32df6b.chunk.js"
+  ]
+}
